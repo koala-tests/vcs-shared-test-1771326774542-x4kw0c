@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.0
-- Feature release with auth and api
-- Updated: 2026-02-17T11:13:05.619Z
+## v1.2.0-beta
+- Beta release for testing
+- Updated: 2026-02-17T11:13:07.208Z
 - Tag created for VCS testing
